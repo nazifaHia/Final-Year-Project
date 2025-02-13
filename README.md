@@ -1,2 +1,3 @@
-# Final-Year-Project
-Bioinformatics
+# Clustering Based Single Cell App
+
+![Clustering Based Single Cell App](ClusteringBasedSingleCellApp.gif)
